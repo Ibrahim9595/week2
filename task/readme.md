@@ -1,8 +1,8 @@
-# write a function that will read a list of products from https://fakeapi.platzi.com/en/rest/products
+1. write a function that will read a list of products from https://fakeapi.platzi.com/en/rest/products
 
-# Categorize the list products into a different buckets according to the product category
+2. Categorize the list products into a different buckets according to the product category
 
-# Example
+3. Example
 
 API response
 
@@ -69,8 +69,8 @@ Transformed response
       "id": 5,
       "name": "Others",
       "image": "https://placeimg.com/640/480/any?r=0.591926261873231"
-    }],
-
+    }
+    ]
 },
 {
  "category": {
@@ -96,7 +96,7 @@ Transformed response
       "id": 5,
       "name": "Others",
       "image": "https://placeimg.com/640/480/any?r=0.591926261873231"
-    }],
+    }]
 },
 {
     "category": {
@@ -128,4 +128,4 @@ Transformed response
 ]
 ```
 
-# Transform the prices from dollars to EGP using any Currency API (Your task is to search for a suitable one)
+4. Transform the prices from dollars to EGP using any Currency API (Your task is to search for a suitable one)
